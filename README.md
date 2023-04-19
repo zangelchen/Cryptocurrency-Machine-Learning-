@@ -48,7 +48,7 @@
 
 <img width="609" alt="image" src="https://user-images.githubusercontent.com/117549284/232964829-d4071b25-7066-4fdf-9f5d-2bdc15a36765.png">
 
-###3D Rendention of Clusters with Principal Component Analysis:
+### 3D Rendention of Clusters with Principal Component Analysis:
 
 <img width="710" alt="image" src="https://user-images.githubusercontent.com/117549284/232964896-996f9c05-6595-4392-94f1-f9cd4cffc5e5.png">
 

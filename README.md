@@ -17,7 +17,7 @@ Cluster Analysis with K-means Using the Original Scaled Data and PCA Data:
 - Color the graph points with the labels found using K-means.
 - Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
 
-<font size=”10”>**Results:**</font>
+<font size=”200”>**Results:**</font>
 
 Visualize the Dataset
 

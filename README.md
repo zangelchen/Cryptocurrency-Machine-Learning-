@@ -24,23 +24,30 @@ Visualize the Dataset:
 <img width="582" alt="image" src="https://user-images.githubusercontent.com/117549284/232964551-b3f83a79-44ed-4713-88ce-1984d3daea06.png">
 
 Find the Best Value for k Using the Original Scaled DataFrame:
+
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/117549284/232964578-0d76adb5-4521-41d0-80d6-24f180b27c6b.png">
 The best value for k is when k=2 where inertia declines the fastest
 
-Cluster Cryptocurrencies with K-means Using the Original Scaled Data
+Cluster Cryptocurrencies with K-means Using the Original Scaled Data:
+
 <img width="618" alt="image" src="https://user-images.githubusercontent.com/117549284/232964649-15b27ac6-09ca-44fa-aa90-e321364919c7.png">
 
-3D Rendention of Cluster Cryptocurrencies with K-means Using the Original Scaled Data
+3D Rendention of Cluster Cryptocurrencies with K-means Using the Original Scaled Data:
+
 <img width="701" alt="image" src="https://user-images.githubusercontent.com/117549284/232964722-587ffe0e-b92a-4ec3-884a-ebd893f3c5b4.png">
 
-Find the Best Value for k Using the PCA Data
+Find the Best Value for k Using the PCA Data:
+
 <img width="609" alt="image" src="https://user-images.githubusercontent.com/117549284/232964759-fd1a8663-ecaa-45dd-9013-1e880455c412.png">
+
 The best value for k remains at when k=2 where inertia declines the fastest, same as the original data
 
-Optimize Clusters with Principal Component Analysis
+Optimize Clusters with Principal Component Analysis:
+
 <img width="609" alt="image" src="https://user-images.githubusercontent.com/117549284/232964829-d4071b25-7066-4fdf-9f5d-2bdc15a36765.png">
 
-3D Rendention of Clusters with Principal Component Analysis
+3D Rendention of Clusters with Principal Component Analysis:
+
 <img width="710" alt="image" src="https://user-images.githubusercontent.com/117549284/232964896-996f9c05-6595-4392-94f1-f9cd4cffc5e5.png">
 
 The effect of using fewer data in comparing Original Data vs PCA Data shows that PCA reduces the level of inertia (as shown when inertia declined form 8.2 x 10^6 to only 192). Using PCA, althought fewer data points, the optimization level remains the same which follows the principle of dimensionality reduction. PCA's data is more closely gathered together and easily visualized outliers. 

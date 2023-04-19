@@ -19,6 +19,7 @@ Cluster Analysis with K-means Using the Original Scaled Data and PCA Data:
 
 Results:
 Visualize the Dataset:
+
 <img width="685" alt="image" src="https://user-images.githubusercontent.com/117549284/232964204-af438c21-713b-4f07-8b03-46dcec7d0ae2.png">
 
 <img width="582" alt="image" src="https://user-images.githubusercontent.com/117549284/232964551-b3f83a79-44ed-4713-88ce-1984d3daea06.png">
